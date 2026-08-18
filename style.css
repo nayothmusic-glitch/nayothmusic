@@ -124,7 +124,7 @@
 
   .esprit{
     text-align:center; position:relative; padding:150px 0;
-    background: linear-gradient(rgba(6,7,10,.82), rgba(6,7,10,.9)), url('../images/adoration-mains.jpg');
+    background: linear-gradient(rgba(6,7,10,.82), rgba(6,7,10,.9)), url('adoration-mains.jpg');
     background-size:cover; background-position:center;
   }
   .esprit h2{
